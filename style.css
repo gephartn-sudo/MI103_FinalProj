@@ -1,13 +1,27 @@
+* {
+    background-color: #FFFFEE;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+
 h1 {
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 2.25rem;
+}
+
+.heads {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 1.5rem;
 }
 
 .section_separator {
-    padding: 1rem;
-    margin: 1rem;
+    padding: .25rem;
+    margin: .25rem;
 }
 
 .list_separator {
-    padding: .5rem;
-    margin: .5rem;
+    padding: .15rem;
+    margin: .15rem;
 }
